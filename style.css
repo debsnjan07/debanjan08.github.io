@@ -1,0 +1,37 @@
+
+
+#body{
+   background-color: rgb(25, 20, 58); color: rgb(8, 8, 8) 
+}
+h2{
+    color: aquamarine; text-align: center; font-size: 6rem; font-family: verdana;
+}
+h4{
+    color: rgb(255, 153, 153);  font-size: 2rem;
+}
+input{
+    color: blue;
+}
+button{
+    color: rgb(255, 0, 0); font-size: medium;
+}
+textarea{
+    color: rgb(255, 145, 0); font-size: large;
+}
+#painting {
+    height: 100%; width: 80%;
+}
+#painting1 {
+    height: 100%; width: 80%;
+}
+body {
+    background-color: yellow;
+}
+div {
+    color: aquamarine; font-size: large; font-style: italic;
+}
+select{
+  border-left: 10px;
+   padding: 10px; 
+  align-self: baseline;
+}
